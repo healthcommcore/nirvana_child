@@ -1,5 +1,5 @@
 <?php
-function nirvana_halecenter_enqueue_styles() {
+function nirvana_child_enqueue_styles() {
 
   $parent_style = 'nirvanas';
   wp_enqueue_style($parent_style, get_template_directory_uri() . '/style.css');
