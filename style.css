@@ -122,6 +122,10 @@ Text Domain: nirvana-halecenter-child
 #second img, #third img {
     display: inline-block;
 }
+.footer-bottom {
+  text-align: center;
+  padding-bottom: 30px;
+}
 .footer-bottom-container {
     background: #A11A24;
     padding: 18px 0 40px;
